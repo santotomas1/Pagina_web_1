@@ -1,0 +1,20 @@
+body{
+    
+}
+
+header{
+    text-align: center;
+    background-color: orange;
+}
+
+#parrafos{
+    text-align: center;
+    background-color: yellow;
+}
+
+footer{
+    text-align: center;
+    background-color: pink;
+    position: relative;
+    bottom: 0;
+}
